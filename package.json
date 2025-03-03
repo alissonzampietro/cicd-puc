@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node ./bin/www",
     "test": "echo Test completed!",
-    "build": "echo Trust me...it's \"built\"!"
+    "build": "echo Build completed!"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
